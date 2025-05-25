@@ -40,7 +40,7 @@ done
 #Install Dependencies
 
 sudo apt-get update
-apt-get upgrade -y
+sudo apt-get upgrade -y
 sudo apt-get install -y software-properties-common
 sudo add-apt-repository main
 sudo add-apt-repository universe
